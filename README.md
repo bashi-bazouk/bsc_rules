@@ -1,6 +1,6 @@
-## bsc_rules
+# bsc_rules
 
-# Use
+## Use
 
 Refer to `bsc_sources.bzl` and etc in your tree.
 
